@@ -1,0 +1,7 @@
+{
+  "name": "Nano Banana AI Studio",
+  "description": "A user-friendly BNB Smart Chain (BSC) dApp and token ecosystem that makes launching, customizing and monetizing micro-chains, token economies, and AI-powered media experiences easy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
